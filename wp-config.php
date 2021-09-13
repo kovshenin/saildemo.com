@@ -1,6 +1,4 @@
 <?php
-echo 'break this site again';
-die();
 /**
  * The base configuration for WordPress
  *
